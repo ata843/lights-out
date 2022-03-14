@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lightsout/static/css/main.43f7b607.chunk.css",
+    "main.js": "/lightsout/static/js/main.d32c0072.chunk.js",
+    "main.js.map": "/lightsout/static/js/main.d32c0072.chunk.js.map",
+    "runtime-main.js": "/lightsout/static/js/runtime-main.0f3e1633.js",
+    "runtime-main.js.map": "/lightsout/static/js/runtime-main.0f3e1633.js.map",
+    "static/js/2.f41ed224.chunk.js": "/lightsout/static/js/2.f41ed224.chunk.js",
+    "static/js/2.f41ed224.chunk.js.map": "/lightsout/static/js/2.f41ed224.chunk.js.map",
+    "static/js/3.3c7e4795.chunk.js": "/lightsout/static/js/3.3c7e4795.chunk.js",
+    "static/js/3.3c7e4795.chunk.js.map": "/lightsout/static/js/3.3c7e4795.chunk.js.map",
+    "index.html": "/lightsout/index.html",
+    "static/css/main.43f7b607.chunk.css.map": "/lightsout/static/css/main.43f7b607.chunk.css.map",
+    "static/js/2.f41ed224.chunk.js.LICENSE.txt": "/lightsout/static/js/2.f41ed224.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/lightsout/static/media/rust.d6ca4a62.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f3e1633.js",
+    "static/js/2.f41ed224.chunk.js",
+    "static/css/main.43f7b607.chunk.css",
+    "static/js/main.d32c0072.chunk.js"
+  ]
+}
